@@ -1,0 +1,35 @@
+{
+	"name": "string-splitter",
+	"version": "0.0.2",
+	"description": "Split the string of an input into arrays using the provided separator",
+	"license": "MIT",
+	"repository": "edimamatthew/string-splitter",
+	"author": {
+		"name": "Edimaobong Matthew",
+		"email": "edimaobongmatthew@gmail.com"
+	},
+	"type": "module",
+	"exports": "./index.js",
+	"engines": {
+		"node": ">=12"
+	},
+	"scripts": {
+		"test": "ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+    "keywords": [
+		"string",
+		"split",
+        "split-string",
+        "splitString",
+        "string-splitter",
+        "splitter"
+	],
+	"devDependencies": {
+		"ava": "^3.15.0",
+		"tsd": "^0.14.0"
+	}
+}
