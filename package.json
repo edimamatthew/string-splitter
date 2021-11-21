@@ -1,6 +1,6 @@
 {
 	"name": "string-splitter",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Split the string of an input into arrays using the provided separator",
 	"license": "MIT",
 	"repository": "edimamatthew/string-splitter",
